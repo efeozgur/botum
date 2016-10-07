@@ -1,0 +1,46 @@
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	padding:10px;
+}
+
+.cerceve {
+	border:solid;
+	border-width: 1px;
+	border-color: #BCBCBC;
+	margin:2px;
+	float: left;
+	background-color: #279500;
+	color: white;
+	padding: 5px;
+	font-size: 12px;
+	font-family: Tahoma, Arial, Verdana;
+}
+
+.cerceve2 {
+	clear: both;
+	border-style: dotted;
+	border:solid;
+	border-width: 1px;
+	border-color:#BCBCBC;
+	background-color: #CD0000;
+	margin:2px;
+	padding:5px;
+	color:white;
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 14px;
+}
+
+p {
+	color:white;
+}
+
+a {
+	color:blue;
+}
+
+a:hover {
+	color:white;
+	font-size: 14px;
+}

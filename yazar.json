@@ -1,0 +1,594 @@
+{
+  "name": "gazete",
+  "count": 58,
+  "version": 2,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "thisversionstatus": "success",
+  "nextrun": "Mon Sep 26 2016 14:04:09 GMT+0000 (UTC)",
+  "thisversionrun": "Mon Sep 26 2016 13:04:09 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/ahmet-hakan/161431/1725-aralikla-ilgili-durustce-bir-hesaplasma",
+          "text": "17/25 Aralık’la ilgili dürüstçe bir hesaplaşma"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/ahmet-hakan/tumyazilari/4",
+          "text": "Ahmet Hakan"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/suleyman-ozisik/161405/turkiyeye-gireceklermis",
+          "text": "Türkiye'ye gireceklermiş!"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/suleyman-ozisik/tumyazilari/265",
+          "text": "Süleyman Özışık"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/ibrahim-karagul/161442/sakin-gevsemeyin-bu-is-henuz-bitmedi",
+          "text": "Sakın gevşemeyin, bu iş henüz bitmedi"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/ibrahim-karagul/tumyazilari/46",
+          "text": "İbrahim Karagül"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/arslan-bulut/161407/mehdi-bey-akpnin-sifrelerini-acikladi",
+          "text": "Mehdi Bey, AKP'nin şifrelerini açıkladı!"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/arslan-bulut/tumyazilari/63",
+          "text": "Arslan Bulut"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/abdulkadir-selvi/161432/rakka-ve-musul-operasyonunun-tarihi-belli-oldu",
+          "text": "Rakka ve Musul operasyonunun tarihi belli oldu"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/abdulkadir-selvi/tumyazilari/183",
+          "text": "Abdülkadir Selvi"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/abdurrahman-dilipak/161422/gulene-gule-gule",
+          "text": "Gülen’e güle güle.."
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/abdurrahman-dilipak/tumyazilari/521",
+          "text": "Abdurrahman Dilipak"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/mete-yarar/161451/saflari-siki-tutun",
+          "text": "Safları sıkı tutun"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/mete-yarar/tumyazilari/622",
+          "text": "Mete Yarar"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/fehmi-koru/161452/savas-yalniz-alanda-yapilmiyor-sandiga-da-artik-savas-alani-gibi-yaklasiliyor",
+          "text": "Savaş yalnız alanda yapılmıyor, sandığa da artık savaş alanı gibi yaklaşılıyor"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/fehmi-koru/tumyazilari/24",
+          "text": "Fehmi Koru"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/murat-yetkin/161433/on-adimda-gulenin-yukselisi-ve-dususu",
+          "text": "On adımda Gülen’in yükselişi ve düşüşü"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/murat-yetkin/tumyazilari/53",
+          "text": "Murat Yetkin"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/taha-akyol/161429/moodys-ne-dedi",
+          "text": "Moody’s ne dedi?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/taha-akyol/tumyazilari/41",
+          "text": "Taha Akyol"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/hakan-albayrak/161450/gizli-delil-kanunu-ve-fgulen",
+          "text": "Gizli Delil Kanunu ve F.Gülen"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/hakan-albayrak/tumyazilari/621",
+          "text": "Hakan Albayrak"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/mehmet-tezkan/161406/turkce-bilmeyen-universite-gencligi",
+          "text": "Türkçe bilmeyen Üniversite Gençliği"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/mehmet-tezkan/tumyazilari/35",
+          "text": "Mehmet Tezkan"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/ahmet-kekec/161424/ayakkabi-kutusunun-muhtesem-donusu",
+          "text": "Ayakkabı kutusunun muhteşem dönüşü!"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/ahmet-kekec/tumyazilari/61",
+          "text": "Ahmet Kekeç"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/ersin-ramoglu/161441/rehavete-kapilmayin-feto-vazgecmedi",
+          "text": "Rehavete kapılmayın FETÖ vazgeçmedi"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/ersin-ramoglu/tumyazilari/441",
+          "text": "Ersin Ramoğlu"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/salih-tuna/161443/o-gazeteyi-bunlarin-elinden-kim-kurtaracak",
+          "text": "O gazeteyi bunların elinden kim kurtaracak?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/salih-tuna/tumyazilari/148",
+          "text": "Salih Tuna"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/ardan-zenturk/161426/moodys-asil-savas-yeni-basladi-uyanik-olun",
+          "text": "MOODY’S: Asıl savaş yeni başladı, uyanık olun..."
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/ardan-zenturk/tumyazilari/217",
+          "text": "Ardan Zentürk"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/mehmet-metiner/161428/darbe-senaryosu-ve-ikinci-kalkisma",
+          "text": "Darbe senaryosu ve ikinci kalkışma"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/mehmet-metiner/tumyazilari/557",
+          "text": "Mehmet Metiner"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/engin-ardic/161436/bu-neyin-tursusu",
+          "text": "Bu neyin turşusu?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/engin-ardic/tumyazilari/5",
+          "text": "Engin Ardıç"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/serdar-turgut/161454/moodysin-notundaki-korkunc-gercegi-bilin",
+          "text": "Moody’s’in notundaki korkunç gerçeği bilin"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/serdar-turgut/tumyazilari/40",
+          "text": "Serdar Turgut"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/orhan-bursali/161419/proje-okul-kaliteli-okullari-ve-ogretmenleri-yok-etme",
+          "text": "‘Proje Okul’: Kaliteli okulları ve öğretmenleri yok etme"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/orhan-bursali/tumyazilari/410",
+          "text": "Orhan Bursalı"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/melih-altinok/161438/ne-yapmali",
+          "text": "Ne yapmalı?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/melih-altinok/tumyazilari/272",
+          "text": "Melih Altınok"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/markar-esayan/161397/erdogan-15-yildir-ne-yapiyor-sizce",
+          "text": "Erdoğan 15 yıldır ne yapıyor sizce?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/markar-esayan/tumyazilari/297",
+          "text": "Markar Esayan"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/ali-karahasanoglu/161423/cok-ayip-beyler-5-aydir-anitkabire-hic-gitmediniz-mi",
+          "text": "Çok ayıp beyler, 5 aydır Anıtkabir’e hiç gitmediniz mi?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/ali-karahasanoglu/tumyazilari/522",
+          "text": "Ali Karahasanoğlu"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/bulent-erandac/161402/derin-guclerin-ic-siyaset-oyunu",
+          "text": "Derin güçlerin iç siyaset oyunu.."
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/bulent-erandac/tumyazilari/363",
+          "text": "Bülent Erandaç"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/arslan-tekin/161408/aci-feryat-3",
+          "text": "Acı feryat! (3)"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/arslan-tekin/tumyazilari/351",
+          "text": "Arslan Tekin"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/mehmet-ocaktan/161448/abdulhamid-ulu-hakan-mi-kizi-sultan-mi",
+          "text": "Abdülhamid ulu hakan mı 'kızı sultan' mı?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/mehmet-ocaktan/tumyazilari/223",
+          "text": "Mehmet Ocaktan"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/murat-bardakci/161453/anitkabire-gidip-bir-tarafini-yikmak-artik-serbest-mi-oldu",
+          "text": "Anıtkabir’e gidip bir tarafını yıkmak artık serbest mi oldu?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/murat-bardakci/tumyazilari/349",
+          "text": "Murat Bardakçı"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/yusuf-ziya-comert/161449/yeni-bir-darbe-olur-mu",
+          "text": "Yeni bir darbe olur mu?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/yusuf-ziya-comert/tumyazilari/243",
+          "text": "Yusuf Ziya Cömert"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/fadime-ozkan/161427/seta-stratejik-arastirmalar-direktoru-doc-dr-hasan-basri-yalcin-erdogansiz-turkiye-icin-zorlayacaklar",
+          "text": "SETA Stratejik Araştırmalar Direktörü Doç. Dr. Hasan Basri Yalçın: Erdoğan’sız Türkiye için zorlayacaklar"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/fadime-ozkan/tumyazilari/220",
+          "text": "Fadime Özkan"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/mehmet-sevket-eygi/161403/deprem-telgrafi",
+          "text": "Deprem Telgrafı"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/mehmet-sevket-eygi/tumyazilari/232",
+          "text": "Mehmet Şevket Eygi"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/vedat-bilgin/161399/son-imparator",
+          "text": "Son imparator"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/vedat-bilgin/tumyazilari/319",
+          "text": "Vedat Bilgin"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/adnan-oksuz/161404/fullbriht-komisyonundan-burs-alan-bakan-kim",
+          "text": "Fullbriht Komisyonundan Burs alan bakan kim"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/adnan-oksuz/tumyazilari/585",
+          "text": "Adnan Öksüz"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/ceyda-karan/161420/bataklikta-firsat-gormek",
+          "text": "Bataklıkta fırsat görmek"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/ceyda-karan/tumyazilari/600",
+          "text": "Ceyda Karan"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/okay-gonensin/161400/darbe-haberleri",
+          "text": "Darbe haberleri"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/okay-gonensin/tumyazilari/126",
+          "text": "Okay Gönensin"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/hikmet-cetinkaya/161446/kemalistin-kaydirakla-imtihani",
+          "text": "Kemalist’in kaydırakla imtihanı!.."
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/hikmet-cetinkaya/tumyazilari/401",
+          "text": "Hikmet Çetinkaya"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/aydin-engin/161417/mutlaka-gitsin-sakin-gitmesin",
+          "text": "Mutlaka gitsin - Sakın gitmesin"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/aydin-engin/tumyazilari/599",
+          "text": "Aydın Engin"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/hasmet-babaoglu/161437/dunya-neresi-halep-nerede",
+          "text": "Dünya neresi? Halep nerede?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/hasmet-babaoglu/tumyazilari/52",
+          "text": "Haşmet Babaoğlu"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/yusuf-kaplan/161444/insansiz-sehir-ve-sehirsiz-insanla-nereye-kadar",
+          "text": "İnsansız Şehir ve Şehirsiz İnsan’la nereye kadar?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/yusuf-kaplan/tumyazilari/369",
+          "text": "Yusuf Kaplan"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/mustafa-karaalioglu/161447/liyakatli-ve-kaliteli-universite-egitimi-ne-kadar-zor",
+          "text": "Liyakatli ve kaliteli Üniversite Eğitimi ne kadar zor"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/mustafa-karaalioglu/tumyazilari/37",
+          "text": "Mustafa Karaalioğlu"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/aziz-ustel/161425/allah-hepimizi-ekonomik-tetikcilerden-korusun",
+          "text": "Allah hepimizi ekonomik tetikçilerden korusun!"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/aziz-ustel/tumyazilari/206",
+          "text": "Aziz Üstel"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/erdal-atabek/161421/tasmektep",
+          "text": "Taşmektep.."
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/erdal-atabek/tumyazilari/442",
+          "text": "Erdal Atabek"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/seref-oguz/161440/sen-kalkismazsan-onlar-yine-kalkisacak",
+          "text": "Sen kalkışmazsan onlar yine kalkışacak"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/seref-oguz/tumyazilari/610",
+          "text": "Şeref Oğuz"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/rauf-tamer/161435/rutin-disi",
+          "text": "Rutin dışı"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/rauf-tamer/tumyazilari/38",
+          "text": "Rauf Tamer"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/ceren-kenar/161413/ahlaki-ustunluk-ele-gecerken",
+          "text": "Ahlaki üstünlük ele geçerken."
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/ceren-kenar/tumyazilari/515",
+          "text": "Ceren Kenar"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/yasin-aktay/161445/erdogandan-dunya-duzenine-bu-boyle-gitmez",
+          "text": "Erdoğan’dan dünya düzenine: Bu böyle gitmez!"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/yasin-aktay/tumyazilari/338",
+          "text": "Yasin Aktay"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/cigdem-toker/161418/maliye-bakani-agbal-kirilganlik-dogru-onlem-alinacakti",
+          "text": "Maliye Bakanı Ağbal: Kırılganlık doğru önlem alınacaktı"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/cigdem-toker/tumyazilari/225",
+          "text": "Çiğdem Toker"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/hilal-kaplan/161439/muhtac-oldugumuz-kudret",
+          "text": "Muhtaç olduğumuz kudret..."
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/hilal-kaplan/tumyazilari/182",
+          "text": "Hilal Kaplan"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/m-latif-salihoglu/161411/kurtler-teroru-lanetliyor",
+          "text": "Kürtler terörü lânetliyor"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/m-latif-salihoglu/tumyazilari/597",
+          "text": "M. Latif Salihoğlu"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/rahim-er/161415/yuksekogretim",
+          "text": "Yükseköğretim"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/rahim-er/tumyazilari/376",
+          "text": "Rahim Er"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/melis-alphan/161434/cerattepede-hukuka-hile-yapiliyor",
+          "text": "Cerattepe’de hukuka hile yapılıyor"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/melis-alphan/tumyazilari/323",
+          "text": "Melis Alphan"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/ufuk-ulutas/161398/haleptekatliamvar",
+          "text": "#Haleptekatliamvar"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/ufuk-ulutas/tumyazilari/509",
+          "text": "Ufuk Ulutaş"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/burhan-ayeri/161409/arkadasim-zeki-muren",
+          "text": "Arkadaşım Zeki Müren"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/burhan-ayeri/tumyazilari/202",
+          "text": "Burhan Ayeri"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/faruk-cakir/161410/barisa-kim-celme-takti",
+          "text": "Barışa kim çelme taktı?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/faruk-cakir/tumyazilari/595",
+          "text": "Faruk Çakır"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/vehbi-tulek/161416/yerde-olanlara-merhamet-ediniz-ki",
+          "text": "\"Yerde olanlara merhamet ediniz ki...\""
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/vehbi-tulek/tumyazilari/456",
+          "text": "Vehbi Tülek"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/suleyman-kosemene/161412/birisini-taninmadigi-yerde-cekistirmek-giybet-olur-mu",
+          "text": "Birisini tanınmadığı yerde çekiştirmek gıybet olur mu?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/suleyman-kosemene/tumyazilari/598",
+          "text": "Süleyman Kösemene"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/osman-unlu/161414/kimseye-kotu-gozle-bakmamali-midir",
+          "text": "Kimseye kötü gözle bakmamalı mıdır?"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/osman-unlu/tumyazilari/454",
+          "text": "Osman Ünlü"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/fatih-cekirge/161430/simsek-notu-yukseltmek-icin-reformlara-devam-edecegiz",
+          "text": "Şimşek: Notu yükseltmek için reformlara devam edeceğiz"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/fatih-cekirge/tumyazilari/324",
+          "text": "Fatih Çekirge"
+        }
+      },
+      {
+        "baslik": {
+          "href": "http://www.gazeteoku.com/yazar/muge-iplikci/161401/karsilasmalar",
+          "text": "Karşılaşmalar"
+        },
+        "yazar": {
+          "href": "http://www.gazeteoku.com/muge-iplikci/tumyazilari/379",
+          "text": "Müge İplikçi"
+        }
+      }
+    ]
+  }
+}
